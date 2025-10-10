@@ -1,0 +1,2 @@
+LANGAUADE_NAME="python"
+print(LANGAUADE_NAME)
